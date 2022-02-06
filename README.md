@@ -14,7 +14,7 @@ Certainly there is much more programming to be done to achieve a fully functiona
 
 The rest should be rather simple and straightforward.  
 
-If you have any question please feel free to contact me anytime.  
+If you have any questions please feel free to contact me anytime.  
 
 Otherwise, Enjoy!
 
