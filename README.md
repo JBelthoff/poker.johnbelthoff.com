@@ -10,7 +10,7 @@ I don't know Cactus Kev and his original webpage is no longer on the web AFAIK s
 
 I have about 20-30 hours of real work into the program and at this point the game plays with 9 players, changes dealer, calculates the winning hand and displays the results.  
 
-Certainly there is much more to programming to be done to achive a fully functional Texas Holdem Poker program, however I feel I have tackled the basics, or the main meat, of the challenge.  
+Certainly there is much more programming to be done to achieve a fully functional Texas Holdem Poker program, however I feel I have tackled the basics, or the main meat, of the challenge.  
 
 The rest should be rather simple and straight forward.  
 
