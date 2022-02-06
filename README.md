@@ -17,3 +17,11 @@ If you have any question please feel free to contact me anytime.
 Otherwise, Enjoy!
 
 ## Instructions for use
+1. Create an MS SqlServer Database named: PokerApp
+2. Create a Login and User for the Database
+3. Run the Script named "CreateDB.sql" on the DBase PokerApp - File is located in x_dBase directory
+4. Create an IIS website on a Windows Server
+5. Configure the IIS website (AppPools, HostHeader, etc...)
+6. Update Web.config file with your DBase Credentials
+7. Install, or publish, Web App to the Webserver
+8. View the URL in a browser and Play Poker!
