@@ -1,0 +1,13 @@
+﻿html, body, * {margin:0;padding:0;}
+body{}
+img {border: none;}
+.clr{clear: both; height: 1%; font-size: 0;}
+a {outline: none;}
+a:link {text-decoration: none; color: #00f;}
+a:visited {text-decoration: none; color: #800080;}
+a:hover {text-decoration: underline; color: #00f;}
+a:active {text-decoration: none; color: #f00;}
+
+#gamecontainer{margin: 18px; border: solid 1px #f00;}
+#gamecontainer h1{font: bold 2.6em/1.2em "Trebuchet MS", Arial, Sans-Serif;}
+#gamecontainer h2{font: bold 1.6em/1.2em Tahoma, Arial, Sans-Serif;}
