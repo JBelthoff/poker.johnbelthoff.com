@@ -4,7 +4,7 @@ A working version of this code is located here: https://poker.johnbelthoff.com/
 ## About John Belthoff's Texas Holdem & Poker Hand Evaluator
 This is a web project I started one day to see if I could re-create software to control a game of Texas Holdem Poker.  
 
-The project is written using Microsoft Asp.Net in c# and totally relies on a port from c++ to c# of Cactus Kev's Poker Hand Evaluator.  
+The project is written using Microsoft Asp.Net in c# and relies on a port from c++ to c# of Cactus Kev's Poker Hand Evaluator.  
 
 I don't know Cactus Kev and his original webpage is no longer on the web AFAIK so I have included a <a href="/cactus-kev2.html">copy of Cactus Kev's original article</a> on this site for convenience or so you can follow along using his logic and mathematics.  
 
