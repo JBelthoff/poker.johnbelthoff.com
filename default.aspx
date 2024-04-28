@@ -16,7 +16,7 @@
 
     <h1>Poker Table</h1>
     <h2>Texas Holdem</h2>
-    <p style="position:absolute; right:15px;top:15px;">&#10132; <a href="/about.aspx">About Poker Project</a> | Back to <a href="https://www.johnbelthoff.com">John Belthoff</a> website</p>
+    <p style="position:absolute; right:15px;top:15px;">&#10132; <a href="/about.aspx">About Poker Project</a> | <a href="https://github.com/JBelthoff/poker.johnbelthoff.com" target="_blank">See the code</a>! | Back to <a href="https://www.johnbelthoff.com">John Belthoff</a> website</p>
 
 <asp:Literal ID="litPlayers" runat="server" />
 
