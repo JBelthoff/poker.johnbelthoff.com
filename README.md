@@ -1,10 +1,12 @@
 # Poker Hand Evaluator
+
 > ⚠️ **Legacy Notice**
 >
-> This repository contains an earlier version of the Poker Hand Evaluator.
-> The latest, modernized implementation (ASP.NET Core / Razor Pages) is here:
+> This repository contains an earlier version of the Poker Hand Evaluator written for **ASP.NET WebForms**.  
+> The latest, modernized implementation built with **ASP.NET Core (Razor Pages)** is available here:  
 > 👉 **[JBelthoff/poker.net](https://github.com/JBelthoff/poker.net)**  
 > Live modern app: **https://poker-calculator.johnbelthoff.com/**
+
 
 ---
 
