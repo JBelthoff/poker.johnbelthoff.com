@@ -15,7 +15,7 @@ This is a web project I started one day to see if I could re-create software to 
 
 The project is written using Microsoft ASP.NET in C# and relies on a port from C++ to C# of Cactus Kev's Poker Hand Evaluator.  
 
-I don't know Cactus Kev and his original webpage is no longer on the web AFAIK, so I have included a [copy of Cactus Kev's original article](/cactus-kev2.html) for reference and convenience.  
+I don't know Cactus Kev and his original webpage is no longer on the web AFAIK, so I have included a [copy of Cactus Kev's original article]([/cactus-kev2.html](https://poker-calculator.johnbelthoff.com/cactus_kev)) for reference and convenience.  
 
 I have about 20–30 hours of real work into the program, and at this point the game plays with 9 players, changes dealer, calculates the winning hand, and displays the results.  
 
