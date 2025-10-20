@@ -1,4 +1,15 @@
 # Poker Hand Evaluator
+> ⚠️ **Legacy Notice**
+>
+> This repository contains an earlier version of the Poker Hand Evaluator.
+> The latest, modernized implementation (ASP.NET Core / Razor Pages) is here:
+> 👉 **[JBelthoff/poker.net](https://github.com/JBelthoff/poker.net)**  
+> Live modern app: **https://poker-calculator.johnbelthoff.com/**
+
+---
+
+
+
 A working version of this code is located here: https://poker.johnbelthoff.com/
 
 ## About John Belthoff's Texas Holdem & Poker Hand Evaluator
